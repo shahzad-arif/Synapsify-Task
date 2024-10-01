@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "title": "Speed",
+      "description": "Fast and efficient performance for your needs.",
+      "icon": "IoIosFlash"
+    },
+    {
+      "id": 2,
+      "title": "Innovation",
+      "description": "Bringing cutting-edge technology to the forefront.",
+      "icon": "IoIosRocket"
+    },
+    {
+      "id": 3,
+      "title": "Performance",
+      "description": "Optimized solutions for maximum performance.",
+      "icon": "IoIosSpeedometer"
+    },
+    {
+      "id": 4,
+      "title": "Support",
+      "description": "We are here for you, 24/7 customer support.",
+      "icon": "IoIosHeart"
+    }
+  ]
+  

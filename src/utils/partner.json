@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "logo": "/src/assets/logos/black.svg",
+      "name": "Partner One"
+    },
+    {
+      "id": 2,
+      "logo": "/src/assets/logos/findable.svg",
+      "name": "Partner Two"
+    },
+    {
+      "id": 3,
+      "logo": "/src/assets/logos/freepik.svg",
+      "name": "Partner Three"
+    },
+    {
+      "id": 4,
+      "logo": "/src/assets/logos/korea_uni.svg",
+      "name": "Partner Four"
+    },
+    {
+      "id": 5,
+      "logo": "/src/assets/logos/manifest.svg",
+      "name": "Partner Five"
+    },
+    {
+      "id": 6,
+      "logo": "/src/assets/logos/nex.svg",
+      "name": "Partner Five"
+    },
+    {
+      "id": 7,
+      "logo": "/src/assets/logos/nec.svg",
+      "name": "Partner Five"
+    },
+    {
+      "id": 7,
+      "logo": "/src/assets//logos/logo3.svg",
+      "name": "Partner Five"
+    }
+  ]
+  

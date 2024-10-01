@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "GPU Instances!",
+      "description": "On-demand and long-term instances on DataCrunch infrastructure",
+      "image": "/src/assets/cards/card1.webp"
+    },
+    {
+      "id": 2,
+      "title": "GPU Clusters",
+      "description": "Custom built GPU clusters, managed by DataCrunch with custom software stack",
+      "image": "/src/assets/cards/card2.webp"
+    },
+    {
+      "id": 3,
+      "title": "Serverless inference",
+      "description": "Autoscaling and low-cost deployment for your models with zero setup",
+      "image": "/src/assets/cards/card3.webp"
+    }
+  ]
+  
