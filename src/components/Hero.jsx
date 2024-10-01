@@ -2,6 +2,7 @@ import React from "react";
 
 import { IoIosArrowRoundForward } from "react-icons/io";
 
+//Hero Component
 const Hero = () => {
 	return (
 		<div className="section-container">

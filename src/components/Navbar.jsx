@@ -2,6 +2,7 @@ import React from "react";
 import { IoIosMenu } from "react-icons/io";
 import { useState } from "react";
 
+//Nav Bar Component
 const Navbar = () => {
 	const [isOpen, setIsOpen] = useState(false);
 

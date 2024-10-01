@@ -1,5 +1,6 @@
 import React from "react";
 
+//Card component
 const Card = ({ image = "", title = "", description = "", onclickButton }) => {
 	return (
 		<div className="card bg-card w-full sm:w-80 h-auto shadow-xl mx-4 my-4 rounded-lg">

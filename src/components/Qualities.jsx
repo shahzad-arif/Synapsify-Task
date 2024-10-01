@@ -14,6 +14,7 @@ const iconMap = {
 	IoIosHeart: IoIosHeart,
 };
 
+//Qualities
 const Qualities = ({ id, title = "", description = "", icon = "" }) => {
 	const IconComponent = iconMap[icon]; // Get the correct icon component
 	return (

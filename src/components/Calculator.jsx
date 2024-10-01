@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { IoIosArrowForward, IoIosArrowBack } from "react-icons/io";
 
+//Calculator to calculate dynamic values
 const Calculator = () => {
 	const options = [
 		{ label: "Price on demand", price: 3.35 },

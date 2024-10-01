@@ -11,7 +11,7 @@ import FloatingButton from "./components/FloatingButton";
 import cardData from "./utils/card.json";
 import qualitiesData from "./utils/qualities.json";
 import partnersData from "./utils/partner.json";
-//In this project i am using anchor tags instead of Link from react-router-dom which is best appraoch for react
+//In this project i am using anchor tags instead of Link from react-router-dom which is best appraoch for react beacuse it is a single page application
 export default function App() {
 	return (
 		<>

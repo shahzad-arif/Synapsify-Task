@@ -1,5 +1,6 @@
 import React from "react";
 
+//Partner Card
 export const Partner = ({ partners = {} }) => {
 	return (
 		<div className="flex animate-scroll whitespace-nowrap">
